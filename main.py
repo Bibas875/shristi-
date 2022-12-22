@@ -1,7 +1,8 @@
-from rich.text import Text
+from rich.text 
+import Text
 
 # Create a Text object with the word "SHRISTI"
-text = Text("SHRISTI", bold=True)
+text = Text("HELLO SHRISTI CHAMLING RAI", bold=True)
 
 # Print the Text object
 print(text)
